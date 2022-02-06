@@ -11,3 +11,9 @@ i like other ANIME TOO:
 2. Naruto
 3. Inazuma Eleven
 4. One Piece
+
+The Check List 
+- [ ] record
+- [ ] play
+- [ ] pause
+- [ ] stop
